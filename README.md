@@ -1,2 +1,2 @@
 # digital-ecom
-digital products ecom website 
+digital products ecom website website using frontend only
